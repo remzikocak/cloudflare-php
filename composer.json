@@ -1,6 +1,6 @@
 {
-  "name": "cloudflare/sdk",
-  "description": "PHP binding for v4 of the Cloudflare Client API.",
+  "name": "remzikocak/cloudflare-php",
+  "description": "PHP binding for v4 of the Cloudflare Client API. (fork of cloudflare/sdk)",
   "type": "library",
   "require": {
     "guzzlehttp/guzzle": "^7.0.1",
